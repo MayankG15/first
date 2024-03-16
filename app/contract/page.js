@@ -4,7 +4,7 @@ const page = () => {
   return (
     <div>
       <div>
-        I am home page
+        I am contract
       </div>
     </div>
   )
